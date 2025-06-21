@@ -27,7 +27,7 @@ We used **YOLOv8** for object detection, trained on the provided dataset of bee 
 
 ---
 
-## 🗂 Project Files Overview
+## Project Files Overview
 
 | **File**              | **Purpose**                                                                                                       |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------- |
