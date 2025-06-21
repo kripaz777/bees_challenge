@@ -23,7 +23,7 @@ We used **YOLOv8** for object detection, trained on the provided dataset of bee 
 - **Dynamic prediction folder detection** → handles multiple predictions (`predict/`, `predict1/`, ...)
 - **Real-time Bee Count Overlay** → Bee count is written directly onto the image for easy visual verification.
 - **Flexible Training** → Supports further retraining and fine-tuning on more data.
-- 📊 **Visual Metrics** → Plots of training performance provided.
+- **Visual Metrics** → Plots of training performance provided.
 
 ---
 
@@ -35,7 +35,7 @@ We used **YOLOv8** for object detection, trained on the provided dataset of bee 
 | `sample_solution.py`  | CLI tool to load an image and predict the number of bees, overlay count, and save results.                        |                                      |
 | `dataset/`            | Directory containing processed images and labels for training.                                                    |
 | `runs/detect/train*/` | Directory where YOLO saves model weights, training logs, and metrics.                                             |
-| `README.md`           | 📄 This documentation file summarizing the project.                                                               |
+| `README.md`           | This documentation file summarizing the project.                                                               |
 
 ---
 
